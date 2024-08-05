@@ -5,6 +5,8 @@ I was playing with Python iterators and I was learning more about Iterators, Ite
 The data set is obtained from: https://datos.gob.es/en/catalogo/l01080193-hoteles-de-la-ciudad-de-barcelona1
 
 
+I also found this article to be quite nice: https://realpython.com/python-iterators-iterables/
+
 ## Running
 
 
