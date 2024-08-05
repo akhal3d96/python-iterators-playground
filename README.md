@@ -1,11 +1,13 @@
 # Iterators Tutorial
 
+I was playing with Python iterators and I was learning more about Iterators, Iterables and Generators. 
+
 The data set is obtained from: https://datos.gob.es/en/catalogo/l01080193-hoteles-de-la-ciudad-de-barcelona1
 
 
-## Clean
+## Running
+
 
 ```
-docker run --rm -v "$PWD:/app" -w "/app" python:3.12.4-alpine3.20
+docker run --rm -it -v "$PWD:/app" -w "/app" python:3.12.4-alpine3.20 bash
 ```
-
